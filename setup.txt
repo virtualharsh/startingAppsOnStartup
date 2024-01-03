@@ -1,0 +1,9 @@
+-> download and unzip the folder
+-> goto dist directory and create a shortcut of startup.exe
+
+Setting the shortcut file as start-up
+
+-> Hit Windows + R and search "shell:startup"
+-> Copy the shortcut file into this folder
+
+Easy ! 
